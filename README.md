@@ -81,6 +81,14 @@ If the version of python didn't show up, install python using following command 
    ```
 Or if you use windows, download it from [here](https://www.python.org/downloads/windows/)
 
+### Run the Program
+
+First enter the project directory, then run the following command:
+   ```sh
+   python Main.py
+   ```
+The work is done! Enjoy the game :)   
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
