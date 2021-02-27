@@ -17,6 +17,7 @@
       <ul>
         <li><a href="#clone-the-project">Clone the Project</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#run-the-program">Run the Program</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
